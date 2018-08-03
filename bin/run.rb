@@ -1,5 +1,5 @@
 require_relative '../config/environment'
-require 'gemfile'
+Bundler.require(:default, :development)
 
 Hashie
 Sinatra
