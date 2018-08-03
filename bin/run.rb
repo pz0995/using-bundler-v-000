@@ -1,7 +1,6 @@
 # require 'rubygems'
 require 'bundler/setup'
-Bundler.require(:default, :development)
-
+require_relative "../bin/run.rb"
 require_relative '../config/environment'
 
 
