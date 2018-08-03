@@ -1,5 +1,7 @@
+require 'rubygems'
+require 'bundler/setup'
 require_relative '../config/environment'
-bundle-add
+
 
 Hashie
 Sinatra
