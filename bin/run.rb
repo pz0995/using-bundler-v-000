@@ -1,5 +1,5 @@
 require_relative '../config/environment'
-add bundler
+require bundler
 
 Hashie
 Sinatra
