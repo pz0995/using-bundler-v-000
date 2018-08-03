@@ -1,5 +1,5 @@
 require_relative '../config/environment'
-gem "bundle"
+bundle-add
 
 Hashie
 Sinatra
